@@ -1,0 +1,23 @@
+{
+  "name": "sparqlblocks-help",
+  "version": "0.1.0",
+  "description": "Online help for SparqlBlocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel76/SparqlBlocks-help.git"
+  },
+  "author": "miguel.ceriani@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguel76/SparqlBlocks-help/issues"
+  },
+  "homepage": "https://github.com/miguel76/SparqlBlocks-help#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "sparqlblocks": "github:miguel76/SparqlBlocks"
+  }
+}
